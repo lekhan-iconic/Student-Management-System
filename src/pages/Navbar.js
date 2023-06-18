@@ -1,7 +1,6 @@
 import { Box } from "@mui/material";
 import React from "react";
 import { Link } from "react-router-dom";
-import Sidenav from "../Sidenav";
 
 export default function Navbar() {
   return (
